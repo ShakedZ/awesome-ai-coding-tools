@@ -369,7 +369,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Endor Labs](https://www.endorlabs.com/ai-code-security-review)** – AI code review for security risks and architectural vulnerabilities.
 - **[Code Intelligence CI Fuzz](https://www.code-intelligence.com/)** – AI-automated fuzz testing for C/C++.
 - **[Vulert](https://vulert.com/)** – Detects vulnerabilities in open-source dependencies without accessing your code.
-- **[Cynative](https://github.com/cynative/cynative)** - Open sourvce agentic security CLI that runs code in a built-in sandbox to research source, cloud and runtime. Read-only enforced by default.
+- **[Cynative](https://github.com/cynative/cynative)** - Open-source framework for security agents with live, read-only access to your infrastructure (connects to AWS, GCP, Azure, self-managed Kubernetes, GitHub and GitLab).
 
 
 ---
